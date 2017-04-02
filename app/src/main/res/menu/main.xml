@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/action_email"
+        android:orderInCategory="100"
+        android:icon="@drawable/btmemail"
+        android:title="@string/email"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_facebook"
+        android:icon="@drawable/btmfacebook"
+        android:orderInCategory="100"
+        android:title="Facebook"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_phone"
+        android:icon="@drawable/btmphone"
+        android:orderInCategory="100"
+        android:title="Facebook"
+        app:showAsAction="always" />
+    <item
+        android:id="@+id/action_google"
+        android:orderInCategory="100"
+        android:title="google+"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_exit"
+        android:orderInCategory="100"
+        android:title="Exit"
+        app:showAsAction="never" />
+</menu>

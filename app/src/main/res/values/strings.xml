@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">M.H Shakil</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="email">Email</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="android">What is Android? Android is the name of the mobile operating system owned by American company, Google. It most commonly comes installed on a variety of smartphones and tablets from a host of manufacturers offering users access to Google’s own services like Search, YouTube, Maps, Gmail and more. This means you can easily look for information on the web, watch videos, search for directions and write emails on your phone, just as you would on your computer, but there’s more to Android than these simple examples. What can an Android phone do? Android phones are highly customisable and as such can be altered to suit your tastes and needs; with wallpapers, themes and launchers which completely change the look of your device\'s interface. You can download applications to do all sorts of things like check your Facebook and Twitter feeds, manage your bank account, order pizza and play games. You can plan events from your phone\'s calendar and see them on your computer or browse websites on your desktop Mac or PC and pick them up on your phone. Another neat feature of Android is that it automatically backs up your contacts for you. When you set up an Android phone you’ll need to create a Google Account or sign in with an existing one. Every time you save a number to the address book of your Android phone it will be synced to your Google Account. The benefit of this is that if you lose your phone all of your numbers will be saved. The next time you get an Android phone (or an iPhone or Windows Phone if you prefer) and sign in with your Google Account, all of your contacts and friend\'s numbers will be displayed in your new phone’s address book immediately, no need to transfer or back them up anywhere else. Syncing is a way for your phone to keep all your information; websites, contacts, calendar entries and apps up-to-date. This can happen over your phone\'s mobile data or WiFi connection, seamlessly, in the background. What apps can I get on an Android phone? There are millions of apps and games available to download from the Google Play store (formerly Android Market). There are camera apps that allow you to take pictures with artistic effects and music players which allow you to stream songs from the web or create playlists. You can customise the appearance of your Android handset with a number of wallpapers based on pictures you’ve taken yourself or downloaded from the internet too.</string>
+    <string name="title_activity_bottom_bar">BottomBar</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
